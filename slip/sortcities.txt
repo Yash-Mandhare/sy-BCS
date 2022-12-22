@@ -1,0 +1,6 @@
+Bangalore 80
+Chennai 44
+Delhi 11
+Hyderabad 40
+kolkata 23
+Mumbai 22
